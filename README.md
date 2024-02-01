@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @SealLoves
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-SealLoves/SealLoves is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @Seal
+- 👀 I am interested in java development
+- 🌱 I am currently learning java 
+- 💞️ I work at Xenopia
+- 📫 How to contact me in Discord: sseeaal
